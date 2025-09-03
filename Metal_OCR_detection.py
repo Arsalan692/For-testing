@@ -15,7 +15,7 @@ llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 # --- PAGE CONFIG ---
 st.set_page_config(
     page_title="Atlas Honda Inspection Checker",
-    page_icon="Main_code/icon.jpg",
+    page_icon="assets/icon.jpg",
     layout="wide"
 )
 
@@ -526,3 +526,4 @@ with col2:
         """,
         unsafe_allow_html=True
     )
+
