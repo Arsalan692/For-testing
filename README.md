@@ -63,7 +63,7 @@ streamlit run Youtube_transcript_project.py
 ```
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo Screenshots
 <p align="center">
   <img src="assets/Screenshot 2025-09-02 120349.png" alt="App Screenshot" width="700">
   <img src="assets/Screenshot 2025-09-02 120546.png" alt="App Screenshot" width="700">
