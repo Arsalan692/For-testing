@@ -27,7 +27,7 @@ Built with **Streamlit** and **Google Gemini AI**, this tool helps in automating
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Arsalan692/metal-ocr-chassis-detector.git
+git clone https://github.com/Arsalan692/Metal-OCR-Chassis-Detector
 cd metal-ocr-chassis-detector
 ```
 
