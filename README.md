@@ -27,7 +27,7 @@ Built with **Streamlit** and **Google Gemini AI**, this tool helps in automating
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/metal-ocr-chassis-detector.git
+git clone https://github.com/Arsalan692/metal-ocr-chassis-detector.git
 cd metal-ocr-chassis-detector
 ```
 
@@ -58,7 +58,7 @@ GOOGLE_API_KEY=your_api_key_here
 
 ### 6️⃣ Run the app
 ```bash
-streamlit run Youtube_transcript_project.py
+streamlit run Metal_OCR_detection.py
 ```
 ---
 
