@@ -43,11 +43,11 @@ venv\Scripts\activate      # For Windows
 pip install -r requirements.txt
 ```
 ### 4️⃣ Set up API key
-  **🔑 Setting Up Google Gemini API Key**
-      - Go to Google AI Studio: https://aistudio.google.com
-      - Sign in with your Google Account.
-      - Click Get API Key from the sidebar.
-      - Create a new API key and copy it.
+**🔑 Setting Up Google Gemini API Key**
+- Go to Google AI Studio: https://aistudio.google.com
+- Sign in with your Google Account.
+- Click Get API Key from the sidebar.
+- Create a new API key and copy it.
 
 ### 5️⃣ Add API Key
 **Create a .env file in the project root and add your keys:**
