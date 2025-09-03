@@ -10,7 +10,6 @@ Built with **Streamlit** and **Google Gemini AI**, this tool helps in automating
 - 🔍 Uses **Gemini AI** for precise OCR with lookalike character distinction (`0≠O`, `1≠I`, etc.).
 - 🎨 Beautiful **Streamlit UI** with a modern theme.
 - ⚡ Real-time chassis number detection.
-- 🌐 Web app ready – can be deployed on **Streamlit Cloud** or similar platforms.
 
 ---
 
